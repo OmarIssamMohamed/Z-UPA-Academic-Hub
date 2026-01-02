@@ -35,3 +35,12 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/OmarIssamMohamed/Z-UPA-Academic-Hub.git
+
+2. **Install required libraries:**
+   ```bash
+    pip install -r requirements.txt
+
+3. **Run the application:**
+   ```bash
+   python main.py
+
